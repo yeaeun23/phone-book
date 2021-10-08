@@ -14,20 +14,22 @@
 
 ## 2. 화면 예시
 
-![localhost_54477_Index aspx_kind=%EC%A0%84%EC%B2%B4 page=1 no=desc search=](https://user-images.githubusercontent.com/14077108/136358019-fb2ea267-b416-48d5-bc62-95afe481c9a9.png)
+* <b>홈 (for PC / Mobile)</b>
+
+![제목 없음-36](https://user-images.githubusercontent.com/14077108/136515767-023dc954-be51-4c0a-a5c5-b1a19ba64fef.png)
 
 * <b>상세</b>
 
-![localhost_54477_Detail aspx_fn=view id=149 kind=%EC%A0%84%EC%B2%B4 page=1 no=desc search=](https://user-images.githubusercontent.com/14077108/136510321-47b232ce-e748-48bd-98bf-2e542291bc5c.png)
+![제목 없음-3](https://user-images.githubusercontent.com/14077108/136515807-89e4afde-7316-4070-ba14-f267470090b1.png)
 
-* <b>분류별 검색</b>
+* <b>검색</b>
 
-![localhost_54477_Index aspx_kind=%EC%B2%B4%EC%9C%A1 page=1 no=desc search=](https://user-images.githubusercontent.com/14077108/136508329-45f84c35-9c1c-4417-8aa4-6ecf7250a97c.png)
+![제목 없음5-3](https://user-images.githubusercontent.com/14077108/136515824-25f894af-5465-4f23-b185-1448255ded22.png)
 
 * <b>추가</b>
  
-![localhost_54477_Detail aspx_fn=add](https://user-images.githubusercontent.com/14077108/136357945-e9dbedfc-0b49-4bc6-88b0-2f601b4241df.png)
+ ![제목 없음-53](https://user-images.githubusercontent.com/14077108/136515836-d5030dee-ba1f-4c2d-a5d7-29352b954108.png)
 
 * <b>수정</b>
 
-![localhost_54477_Detail aspx_fn=edit id=149 kind=%ec%a0%84%ec%b2%b4 page=1 no=desc search=](https://user-images.githubusercontent.com/14077108/136357988-2df45115-05e2-48f7-a7c9-0e3b8f0938d5.png)
+![제목 없음-83](https://user-images.githubusercontent.com/14077108/136515852-6e9ad7b8-83d5-461e-b6c0-bc6741e5858a.png)
