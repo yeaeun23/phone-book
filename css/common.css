@@ -1,0 +1,84 @@
+﻿@charset "UTF-8";
+
+body {
+    background-color: #e2e6ea !important;
+}
+
+table {
+    table-layout: fixed;
+    width: 100%;
+}
+
+th, td {
+    padding: 8px 10px;
+}
+
+label {
+    margin-bottom: 0 !important;
+}
+
+a:hover {
+    text-decoration: none !important;
+}
+
+[class*="col-"] {
+    padding: 0 10px 1rem;
+}
+
+.container {
+    padding-top: 15px;
+}
+
+.blind {
+    position: absolute;
+    clip: rect(0 0 0 0);
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+}
+
+.ellipsis {
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+
+/* Index.aspx */
+#searchBtn {
+    color: #fff !important;
+}
+
+.index_table tr.link {
+    transition: 0.2s;
+}
+
+    .index_table tr.link:hover {
+        background-color: beige;
+        cursor: pointer;
+    }
+
+.index_table tr:nth-child(2n) {
+    background-color: rgba(0,0,0,.03);
+}
+
+.index_table th:nth-child(1), .index_table th:nth-child(2), .index_table td:nth-child(1), .index_table td:nth-child(2) {
+    text-align: center;
+}
+
+.index_table .sortTabNo:hover, .index_table .sortTabName:hover {
+    cursor: pointer;
+}
+
+
+/* Detail.aspx */
+.detail_table td > input, .detail_table td > textarea, .detail_table td > select {
+    width: 100%;
+    border: 1px solid rgba(0,0,0,.125);
+}
+
+.detail_table td > input:disabled, .detail_table td > textarea:disabled, .detail_table td > select:disabled {
+    color: #000;
+}

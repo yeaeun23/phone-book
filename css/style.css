@@ -1,0 +1,19 @@
+﻿@charset "UTF-8";
+
+.input_left {
+    float: left;
+    height: 31px;
+}
+
+    .input_left + .input_left {
+        margin-left: 5px;
+    }
+
+.input_right {
+    float: right;
+    height: 31px;
+}
+
+    .input_right + .input_right {
+        margin-right: 5px;
+    }
