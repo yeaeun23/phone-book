@@ -17,7 +17,7 @@
 
 * <b>상세</b>
 
-![제목 없음-1](https://user-images.githubusercontent.com/14077108/136357763-84e2e908-4787-4634-9ece-e40270e73e3b.png)
+![localhost_54477_Detail aspx_fn=view id=149 kind=%EC%A0%84%EC%B2%B4 page=1 no=desc search=](https://user-images.githubusercontent.com/14077108/136510321-47b232ce-e748-48bd-98bf-2e542291bc5c.png)
 
 * <b>분류별 검색</b>
 
